@@ -1,5 +1,5 @@
-# 🥪 The Jaffle Shop 🦘 Test Conflict
-Test conflict
+# 🥪 The Jaffle Shop 🦘 Solving Conflict
+
 
 This is a sandbox project for exploring the basic functionality and latest features of dbt. It's based on a fictional restaurant called the Jaffle Shop that serves [jaffles](https://en.wikipedia.org/wiki/Pie_iron).
 
