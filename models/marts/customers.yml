@@ -105,3 +105,4 @@ saved_queries:
       - name: customer_order_metrics
         config:
           export_as: table
+# SAMPLE
